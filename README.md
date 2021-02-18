@@ -1,4 +1,4 @@
-Necrython
+Necrytoon
 Licences 📄
 Below is a list with the names of users with permissions
 
